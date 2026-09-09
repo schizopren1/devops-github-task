@@ -30,3 +30,7 @@
 8. For github actions: 
 - create PAT (Personal Access Token) with **Full control of private repositories** and **Full control of orgs and teams, read and write org projects**
 - add to repository actions secrets key with the name `PAT` and the value of the created PAT 
+
+
+
+9.Create a bash script to find all users with /bin/bash CLI in a file password. Load script in to your GitHub repo an provide link as answer.
