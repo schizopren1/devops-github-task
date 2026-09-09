@@ -32,5 +32,7 @@
 - add to repository actions secrets key with the name `PAT` and the value of the created PAT 
 
 
+#Task on CLI
 
-9.Create a bash script to find all users with /bin/bash CLI in a file password. Load script in to your GitHub repo an provide link as answer.
+1.Create a bash script:
+-needed to find all users with /bin/bash CLI in a file password. Load script in to your GitHub repo an provide link as answer.
